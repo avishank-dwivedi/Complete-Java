@@ -1,5 +1,6 @@
 package arrays;
-
+// print the elements of the binary search tree in the given range
+// the elements should be in the sorted order
 public class print_in_range {
    
 
