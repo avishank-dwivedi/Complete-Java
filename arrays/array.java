@@ -4,7 +4,7 @@ package arrays;
     public static void main(String[] args) {
         int [] marks = {89,99,45};
         //int[] marks = new int[3];
-        //marks[0] = 97;
+        //marks[0] = 98;
         //marks[1] = 90;
         //marks[2] = 95;
         //System.out.println(marks[0]);
