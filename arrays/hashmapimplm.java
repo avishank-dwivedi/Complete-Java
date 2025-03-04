@@ -105,10 +105,11 @@ public class hashmapimplm {
 
         public static void main(String[] args) {
             HashMap<String, Integer> map = new HashMap<>();
-            map.put("India", 120);
+            map.put("India", 140);
             map.put("China", 150);
             map.put("US", 30);
-            map.put("China", 155); // Updates value
+            map.put("China", 155);
+            map.put("canada" , 60); // Updates value
 
             System.out.println(map.get("India")); // 120
             System.out.println(map.get("China")); // 155
